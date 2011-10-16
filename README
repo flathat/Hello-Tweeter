@@ -1,0 +1,9 @@
+Hello-Tweeter
+A tutorial repo created according to:
+help.github.com/create-a-repo
+The files in the directory that includes .git need to be added to
+the local repo with
+$ git add foo
+$ git commit -m 'comment'
+
+
